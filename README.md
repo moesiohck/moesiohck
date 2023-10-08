@@ -1,5 +1,6 @@
 ## Oiii meu nome é Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
 
+<img src=".github/img/
 
 <div align="center">
 
