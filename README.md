@@ -1,4 +1,16 @@
-## Oiii eu sou a Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
+## Oiii meu nome é Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
+
+
+<div align="center">
+
+<div align="center"><br/>
+  <a href="https://github.com/moesiohck">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moesiohck&show_icons=true&theme=dracula"/>
+      
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moesiohck&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
