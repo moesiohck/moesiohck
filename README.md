@@ -1,7 +1,7 @@
 ## Oiii meu nome é Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
 
 
-<img src="/img/Picsart_23-10-07_23-46-02-458.png">
+<img src="/img/Picsart_23-10-07_23-46-02-458.png, -965237785.png-removebg-preview.png">
 
 <div align="center">
 
