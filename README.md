@@ -1,6 +1,7 @@
 ## Oiii meu nome é Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
 
-<img src=".github/img/
+
+<img src=".github/img/a nerdy men is programming at a computer in a room(2).jpg">
 
 <div align="center">
 
