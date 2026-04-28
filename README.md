@@ -1,4 +1,4 @@
-## Oiii meu nome é Moesio Lorran, no meu tempo livre sou programador e tecnico de infórmatica!
+## Opaa, no meu tempo livre sou programador e tecnico de infórmatica!
 
 
 <img src="/img/Design_sem_nome_20231006_174157_0000.png">
