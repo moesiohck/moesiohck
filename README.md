@@ -2,51 +2,86 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Access+Granted...;Hack+%7C+Build+%7C+Break+%7C+Learn;Exploring+the+digital+world;Turning+ideas+into+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Access+Granted...;Hack+%7C+Build+%7C+Break+%7C+Learn;Exploring+the+digital+world;Turning+ideas+into+code." alt="Terminal animation" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&labelColor=0D1117" alt="System online" />
+<img src="https://img.shields.io/badge/MODE-CYBERSECURITY-00FF9C?style=for-the-badge&labelColor=0D1117" alt="Cybersecurity mode" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00FF9C?style=for-the-badge&labelColor=0D1117" alt="Always learning" />
+
+<br/><br/>
+
 **`[ HACK THE SYSTEM. BUILD THE FUTURE. ]`**
 
-*Explorando vulnerabilidades, desenvolvendo soluções e aprendendo algo novo a cada linha de código.*
+*Exploring vulnerabilities, developing solutions and learning something new with every line of code.*
 
 </div>
 
 ---
 
-## `> whoami`
+## `> interests --list`
 
 ```bash
-$ interests --list
-
 [+] Ethical Hacking & Cybersecurity
 [+] Software Development
 [+] Reverse Engineering
 [+] Automation & Scripting
 [+] Linux & Open Source
 [+] Networks & Digital Infrastructure
-[+] Learning by breaking things in safe environments
+[+] Security Research in Authorized Environments
 ```
 
-## `> tech_stack`
+## `> languages --all`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,linux,bash,git,github,vscode&theme=dark" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="C, C++, C#, Python, JavaScript and TypeScript" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=9B4F96" alt="C sharp" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 
 </div>
+
+## `> development --stack`
+
+<div align="center">
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="HTML, CSS, React and Node.js" />
+
+<br/>
+
+### Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux, Bash, Git, GitHub and Visual Studio Code" />
+
+</div>
+
+---
 
 ## `> github --stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moesiohck&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moesiohck&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesiohck&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesiohck&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Most used programming languages" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moesiohck&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=moesiohck&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
 
 </div>
+
+---
 
 ## `> connect --channels`
 
@@ -63,12 +98,14 @@ $ interests --list
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%" alt="" />
+
 ```text
 01001000 01000001 01000011 01001011
 ```
 
 **`Curiosity is the exploit. Knowledge is the privilege.`**
 
-<sub>Hack ethically · Create relentlessly · Never stop learning.</sub>
+<sub>HACK ETHICALLY · CREATE RELENTLESSLY · NEVER STOP LEARNING</sub>
 
 </div>
